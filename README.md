@@ -1,6 +1,5 @@
 # Global-malnutrition-trends-a-power-bi-analysis-1983-2019-
 
-# Global Malnutrition Trends (1983-2019) - Power BI Analysis
 
 This project analyzes global malnutrition trends from 1983 to 2019 using Power BI. The analysis covers data collection, cleaning, and visualization through dashboards.
 
