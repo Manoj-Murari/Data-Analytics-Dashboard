@@ -12,7 +12,7 @@ This project analyzes global malnutrition trends from 1983 to 2019 using Power B
 - **Data Collection & Cleaning**: Organizing raw datasets
 - **Visualization Dashboards**: Interactive Power BI dashboards
 - **Insights & Findings**: Identifying trends and patterns
-- 
+  
 ## 📌 Data Source
 - Dataset used in this project is sourced from Kaggle.
 - [Malnutrition Across the Globe Dataset](https://www.kaggle.com/datasets/ruchi798/malnutrition-across-the-globe?select=malnutrition-estimates.csv)
