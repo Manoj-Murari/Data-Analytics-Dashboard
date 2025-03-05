@@ -28,5 +28,9 @@ This project analyzes global malnutrition trends from 1983 to 2019 using Power B
 - **Data Cleaning Techniques**
 - **Statistical Analysis**
 
+## 📊 Power BI File
+The Power BI analysis file used in this project can be found here:  
+**[Power BI File](./PowerBI/My_Project.pbix)**
+
 ## 📬 Contact
 For any queries, feel free to reach out!
