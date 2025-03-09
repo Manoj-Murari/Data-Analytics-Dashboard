@@ -6,7 +6,7 @@ This folder contains video demonstrations explaining the project.
 1. **Data Collection and Loading**  
    [Watch Here](https://drive.google.com/file/d/1cBDt8uiYdK3WL6-otRF8C7xDMZRrns26/view?usp=sharing)
 
-2. **Data Cleaning**
+2. **Data Cleaning**  
    [Watch Here](https://drive.google.com/file/d/1VVmLvhZuzp7D4Lkj0zVw7mFbtMJIt7Ov/view?usp=sharing)
 
 4. **Data Visualization - Dashboard 1**  
